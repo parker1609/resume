@@ -1,28 +1,20 @@
 - layout: left
-  name: Backend
-  description: | # this will include new lines to allow paragraphs
-    * Java, Groovy, NodeJS
-    * Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
-    * JPA, Querydsl, Hibernate
-    * Junit4, Mockito, Spock
-    * Gradle, Maven
-    * IntelliJ, Visual Studio Code 
+  name: 주력으로 꾸준히 사용중이거나 학습하고 있는 기술
+  description: 테스트 | # this will include new lines to allow paragraphs
+    * Java, C++
+    * Spring Boot, Spring MVC, GIT
+    * MySQL
+    * IntelliJ, Atom, Visual Studio Code
 - layout: left
-  name: DevOps
+  name: 자주 사용하고 있는 기술
   description: | # this will include new lines to allow paragraphs
-    * MySQL, MariaDB
-    * Jenkins, TravisCI, AWS Code Deploy
-    * AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
-    * Nginx, Tomcat
-    * Pinpoint, Ngrinder
-    * Linux Centos
+    * Javascript, HTML/CSS
+    * JPA
+    * Linux/Unix Command
 - layout: left
-  name: Frontend
+  name: 간단히 사용해본 경험이 있는 기술
   description: | # this will include new lines to allow paragraphs
-    * ES6
-    * Npm, Grunt, Webpack
-    * Handlebars, Lodash
-    * Backbone
+    * AWS, Docker
 
   
 
