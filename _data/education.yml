@@ -1,7 +1,7 @@
 - layout: left
-  name: 패스트캠퍼스 AWS 운영 서버 관리 마스터 워크샵
-  dates: 2018.04 ~ 2018.05
-  link: https://github.com/jojoldu/fastcampus-aws-workshop
+  name: 우아한테크코스
+  dates: 2019.05.07 ~ 현재
+  link: https://woowacourse.github.io/
   quote: >
     AWS 운영에 필요한 기본 개념들과 배포 환경 구성 교육
   description: | # this will include new lines to allow paragraphs
