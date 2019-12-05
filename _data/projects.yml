@@ -1,14 +1,24 @@
 - layout: top-middle
-  name: 페이스북 <mark>Clone</mark> 프로젝트
-  link: https://github.com/1-sunshine/miniprojects-2019
+  name: 배달의 민족 <mark>정산</mark> 시스템 개발/운영
   quote: >
-    2019.08.13 ~ 2019.09.04
+    2017.08.17 ~ 현재
   description: | # this will include new lines to allow paragraphs
-    * 우아한테크코스 미니프로젝트
-    * 게시글 CRUD, 게시글 공개 범위, 좋아요 기능 프론트와 서버 구현 담당
-    * 일정 관리, 회의, 회고 등 협업 경험(칸반 보드, Wiki 활용)
-    * 문서화(팀규칙, 컨벤션, 데일리, 회의록, 회고록, 개발 이슈 등)
-    * ATDD 기반으로 구현(89tests, 97% classes 87% lines covered)
+    * 메인 애플리케이션 개발자 ~ Tech Leader 경험 중
+    * 시스템의 IDC 인프라, 데이터베이스 등 메인 담당자 (Ansible, Xtrabackup, Pt-online-schema-change 등)
+    * L4 스크립트와 Jenkins를 이용한 무중단 배포
+    * <mark>조 단위의 거래 금액</mark>을 안정적으로 정산 하기 위한 지속적 개선 (현재 <mark>테스트 케이스 1200개</mark>)
+    * Spring Rest Docs를 이용한 문서 자동화를 비롯해 다양한 자동화
+- layout: top-middle
+  name: 배달의 민족 <mark>주문</mark> 시스템 개편
+  link: https://jojoldu.tistory.com/373
+  quote: >
+    2018.08.01 ~ 2018.10.31
+  description: | # this will include new lines to allow paragraphs
+    * TF로 합류
+    * 신규 시스템의 <mark>Batch</mark> 환경 전체 구성
+    * 신규 도메인과 구 도메인 정합성 검증 배치 구현
+    * 실시간 배치 (배달 자동완료, 자동 취소 등) 구현
+    * 필요한 Batch 공통 모듈 구현 및 가이드
     * Spring Boot Batch 2.x, JPA, Querydsl, Gradle 4, Junit5 + Spock, AWS, Jenkins
 - layout: top-middle
   name: 배달의 민족 <mark>포인트</mark> 시스템 개편
