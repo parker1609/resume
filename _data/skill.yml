@@ -1,6 +1,6 @@
 - layout: left
   name: 주력으로 꾸준히 사용중이거나 학습하고 있는 기술
-  description: 테스트 | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
     * Java, C++
     * Spring Boot, Spring MVC, GIT
     * MySQL
