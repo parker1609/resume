@@ -1,36 +1,26 @@
 - layout: top-middle
-  name: 배달의 민족 <mark>주문</mark> 시스템 개편
-  link: https://jojoldu.tistory.com/373
+  name: 페이스북 <mark>Clone</mark> 프로젝트
+  link: https://github.com/1-sunshine/miniprojects-2019
   quote: >
-    2018.08.01 ~ 2018.10.31
+    2019.08.13 ~ 2019.09.04
   description: | # this will include new lines to allow paragraphs
-    * TF로 합류
-    * 신규 시스템의 <mark>Batch</mark> 환경 전체 구성
-    * 신규 도메인과 구 도메인 정합성 검증 배치 구현
-    * 실시간 배치 (배달 자동완료, 자동 취소 등) 구현
-    * 필요한 Batch 공통 모듈 구현 및 가이드
-    * Spring Boot Batch 2.x, JPA, Querydsl, Gradle 4, Junit5 + Spock, AWS, Jenkins
+    * 우아한테크코스 미니프로젝트
+    * 게시글 CRUD, 게시글 공개 범위, 좋아요 기능 프론트와 서버 구현 담당
+    * 일정 관리, 회의, 회고 등 협업 경험(칸반 보드, Wiki 활용)
+    * 문서화(팀규칙, 컨벤션, 데일리, 회의록, 회고록, 개발 이슈 등)
+    * ATDD 기반으로 구현(89tests, 97% classes 87% lines covered)
+    * OOP, 레이어드 아키텍처, 클린 코드를 중점으로 읽기 좋은 코드 작성에 집중
+    * 코드 리뷰 수행
+    * Java8, Spring Boot, JPA, MySQL, Gradle, Junit5 + Mock, Javascript, Fetch API, HTML
 - layout: top-middle
-  name: 배달의 민족 <mark>포인트</mark> 시스템 개편
-  link: http://bit.ly/2EcIXIA
+  name: 딥러닝 기반 교통 안전 카메라 시스템
+  link: https://github.com/CODEMCD/Traffic-Safety-Camera-Using-YOLO
   quote: >
-    2018.04.01 ~ 2018.07.31
+    2018.03 ~ 2018.06
   description: | # this will include new lines to allow paragraphs
-    * 프로젝트 리더, 신규 도메인/시스템 구조 설계, 메인 애플리케이션 개발, AWS 인프라 구축 담당
-    * <mark>DB가 죽어도 문제가 없는</mark> 시스템이 되도록 AWS SQS (메세징 큐)와 Redis 위주의 시스템 구성
-    * 데이터의 정합성을 위해 <mark>Update/Delete 가 없는</mark> 도메인 모델 구성
-    * 젠킨스와 AWS를 통한 무중단 배포 구성
-    * Pinpoint + Ngrinder를 통한 성능 테스트
-    * Spring Boot 2.x, JPA, Querydsl, Gradle 4, Junit4 + Spock, AWS, Jenkins 
-- layout: top-middle
-  name: 배달의 민족 <mark>정산</mark> 시스템 개편
-  link: http://bit.ly/2ksIEQB
-  quote: >
-    2017.01.01 ~ 2017.08.17
-  description: | # this will include new lines to allow paragraphs
-    * PHP + 수백라인의 프로시져 -> Spring + JPA + 테스트 코드 기반으로 전환
-    * 복잡한 도메인에서의 JPA 엔티티 설계
-    * 대용량 배치 성능 향상 (<mark>5시간 -> 6분</mark>)
-    * 팀내 프론트 엔드 개발 환경 개선 (webpack, hot reload 등)
-    * 팀내 API 공통 모듈 구현 및 가이드
-    * Spring Boot 1.x (이후 2.x로 업데이트), JPA, Querydsl, Gradle 4, Junit4 + Spock, MariaDB, Nginx, Jenkins 
+    * 대학 졸업 프로젝트
+    * 도로에서 쓰러진 사람과 교통에 방해 되는 요소 중 하나인 동물 사체를 인식하여 관련 기관에 알려주는 시스템
+    * 카메라 서버와 알람 서버와 통신하는 메인 서버를 C언어로 구현
+    * 실시간 환경에 적합한 YOLO 딥러닝 이미지 알고리즘 사용
+    * 카메라는 웹캠, 알람은 라즈베리파이를 사용하여 간소화
+    * Ubuntu 16.04, C, YOLO, OpenCV(2.4.13.2), CUDA 8.0, cuDNN 6.0, MySQL
