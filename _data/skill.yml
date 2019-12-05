@@ -1,18 +1,18 @@
 - layout: left
-  name: 주력으로 꾸준히 사용중이거나 학습하고 있는 기술
+  name: 주력으로 사용/학습하는 기술
   description: | # this will include new lines to allow paragraphs
     * Java, C++
     * Spring Boot, Spring MVC, GIT
     * MySQL
     * IntelliJ, Atom, Visual Studio Code
 - layout: left
-  name: 자주 사용하고 있는 기술
+  name: 자주 사용하는 기술
   description: | # this will include new lines to allow paragraphs
     * Javascript, HTML/CSS
     * JPA
     * Linux/Unix Command
 - layout: left
-  name: 간단히 사용해본 경험이 있는 기술
+  name: 간단히 사용해본 기술
   description: | # this will include new lines to allow paragraphs
     * AWS, Docker
 

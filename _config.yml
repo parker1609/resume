@@ -22,7 +22,7 @@ github_username: CODEMCD
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  백엔드 개발자를 지망하는 학생으로서, 성장에 매우 관심이 많습니다.
+  백엔드 개발자를 지망하는 학생으로서, <mark>성장</mark> 에 매우 관심이 많습니다.
 
   현제는 우아한테크코스를 수강중이고, 이전에는 POCU 아카데미에서 C++ 강좌를 수료하였습니다.
 
@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   배운 지식과 개발을 하며 생긴 이슈는 GITHUB와 블로그에 기록하고 있습니다.
 
   항상 과거의 나에게 고칠 점을 찾아 성장하기 위해 회고를 하고 있습니다.
-  
+
   꾸준히 노력하여 좋은 개발자가 되기를 꿈꾸고 있습니다.
   
 
