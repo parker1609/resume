@@ -24,7 +24,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   백엔드 개발자를 지망하는 학생으로서, <mark>성장</mark> 에 매우 관심이 많습니다.
 
-  현제는 우아한테크코스를 수강중이고, 이전에는 POCU 아카데미에서 C++ 강좌를 수료하였습니다.
+  현재는 우아한테크코스를 수강중이고, 이전에는 POCU 아카데미에서 C++ 강좌를 수료하였습니다.
 
   OOP와 클린 코드를 통해 읽기 좋은 코드를 구현하려 노력하며, 
 
