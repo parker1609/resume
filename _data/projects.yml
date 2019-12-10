@@ -20,7 +20,7 @@
   description: | # this will include new lines to allow paragraphs
     * 대학 졸업 프로젝트
     * 도로에서 쓰러진 사람과 교통에 방해 되는 요소 중 하나인 동물 사체를 인식하여 관련 기관에 알려주는 시스템
-    * 카메라 서버와 알람 서버와 통신하는 메인 서버를 C언어로 구현
+    * 카메라 서버, 알람 서버와 통신하는 메인 서버를 C 언어로 구현 담당
     * 실시간 환경에 적합한 YOLO 딥러닝 이미지 알고리즘 사용
     * 카메라는 웹캠, 알람은 라즈베리파이를 사용하여 간소화
     * Ubuntu 16.04, C, YOLO, OpenCV(2.4.13.2), CUDA 8.0, cuDNN 6.0, MySQL
