@@ -8,7 +8,7 @@
     * 게시글 CRUD, 게시글 공개 범위, 좋아요 기능 프론트와 서버 구현 담당
     * 일정 관리, 회의, 회고 등 협업 경험(칸반 보드, Wiki 활용)
     * 문서화(팀규칙, 컨벤션, 데일리, 회의록, 회고록, 개발 이슈 등)
-    * ATDD 기반으로 구현(89tests, 97% classes 87% lines covered)
+    * ATDD 기반으로 구현(149tests, 94% classes 87% methods 90% lines covered)
     * OOP, 레이어드 아키텍처, 클린 코드를 중점으로 읽기 좋은 코드 작성에 집중
     * 코드 리뷰 수행
     * Java8, Spring Boot, JPA, MySQL, Gradle, Junit5 + Mock, Javascript, Fetch API, HTML
