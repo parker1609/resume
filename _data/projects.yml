@@ -10,7 +10,7 @@
     * 문서화(팀규칙, 컨벤션, 데일리, 회의록, 회고록, 개발 이슈 등)
     * ATDD 기반으로 구현(149tests, 94% classes 87% methods 90% lines covered)
     * OOP, 레이어드 아키텍처, 클린 코드를 중점으로 읽기 좋은 코드 작성에 집중
-    * 코드 리뷰 수행
+    * 오프라인, 온라인(PR) 코드 리뷰 수행
     * Java8, Spring Boot, JPA, MySQL, Gradle, Junit5 + Mock, Javascript, Fetch API, HTML
 - layout: top-middle
   name: 딥러닝 기반 교통 안전 카메라 시스템
