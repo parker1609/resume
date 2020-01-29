@@ -49,9 +49,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  - [Over-10 스터디](https://github.com/Over-10-Study)
-    - 개발 관련 스터디
-    - 활동 기간: 2019.07 ~ 현재
+  [Over-10 스터디](https://github.com/Over-10-Study){:target="_blank"}
+  - 개발 관련 스터디
+  - 활동 기간: 2019.07 ~ 현재
   
 # Footer
 footer_show_references: true
