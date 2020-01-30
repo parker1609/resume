@@ -1,0 +1,29 @@
+- layout: left
+  name: 개인 블로그
+  link: https://velog.io/@codemcd
+  quote: >
+    개인 기술 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 배운 지식과 개발을 하며 만난 이슈, 회고 등을 정리하여 공유하기 위한 블로그
+    * 학습하며 좀 더 깊게 알고 싶거나 공유하고 싶은 지식 정리
+    * 개발하면서 문제를 해결하는 과정이나 알게 된 점 정리
+    * 개발자를 준비하는 과정과 여기서 느낀 점 정리
+- layout: left
+  name: TIL(Today I Learned)
+  link: https://github.com/CODEMCD/TIL
+  quote: >
+    하루동안 나의 개발 활동
+  description: | # this will include new lines to allow paragraphs
+    * 하루동안 수행한 개발, 구현한 코드 정리
+    * 인상깊었던 개발 컨텐츠 모음
+    * 꾸준히 개발하고 학습하며 이를 결과물로 작성하여 지속적으로 동기부여를 얻고 있습니다.
+- layout: left
+  name: Over-10 스터디
+  link: https://github.com/Over-10-Study
+  quote: >
+    개발 관련 스터디
+  description: | # this will include new lines to allow paragraphs
+    * 활동 기간: 2019.07 ~ 현재
+    * 스터디원들과 상의하여 관심있는 주제를 정하여 스터디를 진행하고 있습니다.
+    * 결과물을 만드는 것과 이를 발표하는 형식으로 스터디를 진행하고 있습니다.
+    * 스터디에서 주로 문서 정리를 담당하고 있습니다.

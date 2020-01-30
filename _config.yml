@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   항상 과거의 나에게 고칠 점을 찾아 성장하기 위해 회고를 하고 있습니다.
 
-  속력보다는 <mark>좋은 방향</mark> 으로 성장하는 개발자가 되고 싶습니다.
+  <mark>좋은 방향</mark> 으로 성장하는 개발자가 되고 싶습니다.
 
 
 # Projects Section
@@ -49,9 +49,6 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  [Over-10 스터디](https://github.com/Over-10-Study){:target="_blank"}
-  - 개발 관련 스터디
-  - 활동 기간: 2019.07 ~ 현재
   
 # Footer
 footer_show_references: true

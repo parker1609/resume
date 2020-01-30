@@ -20,9 +20,9 @@
                 {%- include projects.html -%}
             {%- endif -%}
 
-            {%- if site.data.opensource.size > 0 -%}
+            <!-- {%- if site.data.opensource.size > 0 -%}
                 {%- include opensource.html -%}
-            {%- endif -%}
+            {%- endif -%} -->
 
             <!-- {%- if site.data.experience.size > 0 -%}
                 {%- include experience.html -%}
@@ -32,7 +32,11 @@
                 {%- include education.html -%}
             {%- endif -%}
 
-            {%- include more.html -%}
+            {%- if site.data.more.size > 0 -%}
+                {%- include more.html -%}
+            {%- endif -%}
+
+            <!-- {%- include more.html -%} -->
 
         </div>
     </main>

@@ -1,8 +1,6 @@
-<div class="container more-container">
-    <h3>{{ site.more_title | default: "외부 활동" }}</h3>
-    <div class="row clearfix">
-      <div class="col-md-12">
-        {{ site.more_content | strip | markdownify }}
-      </div>
-    </div>
-  </div>
+<div class="container projects-container">
+    <h3>{{ site.more_title | default: "기타 활동" }}</h3>
+    {% for project in site.data.more %}
+      {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+    {% endfor %}
+</div>
